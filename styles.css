@@ -1,6 +1,7 @@
 /* Shared styles */
 * {
   font-family: "Mulish";
+
 }
 
 
@@ -99,20 +100,72 @@ nav li a {
   color: #FFF;
   font-size: 4rem;
   font-weight: 800;
-
-  /* padding-top: 106px; */
-
-
 }
 
 #banner-breff {
-
   color: #FFF;
-
   font-size: 1rem;
   font-weight: 400;
+}
+
+/* Main Sections Styles */
+.hill-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 100px auto;
+
 
 }
+
+.popular-tours {
+  margin-right: 20px;
+}
+
+
+#tour-title {
+  color: #131318;
+  font-size: 2.5rem;
+  font-weight: 800;
+}
+
+#tour-breff {
+  color: rgba(19, 19, 24, 0.70);
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+#tour-points {
+  color: rgba(19, 19, 24, 0.70);
+
+  font-size: 1rem;
+
+  font-weight: 400;
+  line-height: 26px;
+}
+
+#mount-everest-img {
+  width: 540px;
+  height: 550px;
+  border-radius: 16px;
+
+}
+
+#btn2 {
+  background: #FF5400;
+  width: 174px;
+  height: 52px;
+  border-radius: 8px;
+  border: none;
+  color: #FFF;
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: 800;
+
+}
+
+
 
 
 
@@ -121,6 +174,8 @@ nav li a {
 
 /* Responsive section styles */
 @media screen and (max-width:600px) {
+
+  /* Nav and Header section */
   nav ul {
     display: none;
   }
@@ -138,11 +193,11 @@ nav li a {
     color: #FFF;
     font-size: 1.375rem;
     font-weight: 800;
-    /* margin: 0; */
+    
   }
 
   #banner-breff {
-    /* max-width: 304px; */
+    
     color: #FFF;
     text-align: center;
     font-size: 0.875rem;
@@ -172,7 +227,68 @@ nav li a {
     height: 52px;
   }
 
-  
+  /* Main section styles */
+  /* popular tours */
+  .hill-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 100px auto;
+
+
+  }
+
+  .popular-tours {
+    margin-left: 20px;
+  }
+
+
+  #tour-title {
+    color: #131318;
+
+    font-size: 1.25rem;
+    font-weight: 800;
+
+  }
+
+  #tour-breff {
+    color: rgba(19, 19, 24, 0.70);
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 24px;
+  }
+
+  #tour-points {
+    color: rgba(19, 19, 24, 0.70);
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 24px;
+  }
+
+  #mount-everest-img {
+    width: 540px;
+    height: 550px;
+    border-radius: 16px;
+
+  }
+
+  #btn2 {
+    background: #FF5400;
+    width: 174px;
+    height: 52px;
+    border-radius: 8px;
+    border: none;
+    color: #FFF;
+    text-align: center;
+    font-size: 1.25rem;
+    font-weight: 800;
+    margin-bottom: 24px ;
+
+  }
+
+
+
 
 
 
