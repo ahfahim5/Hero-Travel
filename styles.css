@@ -348,25 +348,22 @@ nav li a {
 
 }
 
-
-/* Deals & Discounts section */
-
-#deal-title {
-  color: #131318;
+/* what we are offering */
+#services-offering {
   text-align: center;
-  font-size: 2.5rem;
+  font-size: 2rem;
   font-weight: 800;
-  margin-top: 100px;
-
+  margin-top: 70px;
 }
 
-#deal-breff {
-  color: rgba(19, 19, 24, 0.70);
-  text-align: center;
-  font-size: 1rem;
-  font-weight: 400;
-  line-height: 26px;
+.services-main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  margin-top: 70px;
 }
+
 
 /* A Simple Perfect Place To Get Lost */
 .place-section {
@@ -445,6 +442,7 @@ nav li a {
   height: 440px;
   padding: 18px;
   margin-bottom: 100px;
+  margin-top: 110px;
 }
 
 hr {
@@ -486,8 +484,8 @@ input {
 .img-4 {
   background-image: url(icons/Rectangle\ 14.png);
   position: absolute;
-  right: 329px;
-  bottom: 80px;
+  right: 344px;
+  bottom: 187px;
   width: 300px;
   height: 100px;
   transform: rotate(-30deg);
@@ -550,12 +548,8 @@ input {
 
 }
 
-#year {
-  justify-content: center;
-  text-align: center;
-  max-width: 769px;
-  /* padding-left:555px ; */
-}
+
+
 
 
 
@@ -577,9 +571,13 @@ input {
     display: block;
   }
 
+  #banner-section {
+    margin-top: -80px;
+  }
+
   .banner {
-    width: 450px;
-    height: 480px;
+    width: 440px;
+    height: 430px;
     margin-left: 10px;
   }
 
@@ -682,7 +680,7 @@ input {
 
   }
 
- 
+
 
   /* Choose Your Location section styles */
   #location-title {
@@ -848,7 +846,7 @@ input {
     background: rgba(251, 181, 99, 0.05);
     padding: 34px;
     margin-bottom: 16px;
-    margin: 16px 25px 16px ;
+    margin: 16px 25px 16px;
   }
 
   .hotel2 {
@@ -859,7 +857,7 @@ input {
     background: rgba(41, 206, 246, 0.05);
     padding: 34px;
     margin-bottom: 16px;
-    margin: 16px 25px 16px ;
+    margin: 16px 25px 16px;
   }
 
   .hotel3 {
@@ -892,13 +890,28 @@ input {
 
   }
 
+  /* waht we are offering  */
+  #services-offering {
+    margin-left: 40px;
+  }
+
+  .services-main {
+    flex-direction: column;
+    text-align: center;
+    margin-left: 40px;
+  }
+
+
+
+
+
   /* A Simple Perfect Place To Get Lost */
   .place-section {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    
+
     margin-left: 80px;
 
 
@@ -969,9 +982,10 @@ input {
   .news {
     border: 1px solid #FF5400;
     border-radius: 16px;
-    width: 335px;
+    width: 400px;
     height: 420px;
     padding: 18px;
+    margin-top: 0px;
   }
 
   hr {
@@ -1005,7 +1019,7 @@ input {
   }
 
   .img-3 {
-    width: 335px;
+    width: 410px;
     height: 300px;
     border-radius: 16px;
   }
@@ -1013,8 +1027,8 @@ input {
   .img-4 {
     background-image: url(icons/Rectangle\ 14.png);
     position: absolute;
-    right: 329px;
-    bottom: 80px;
+    left: 170px;
+    top: 760px;
     width: 214.023px;
     height: 79.268px;
     transform: rotate(-35deg);
@@ -1034,13 +1048,15 @@ input {
     font-size: 1.3rem;
     font-weight: 800;
     text-align: center;
+    margin-top: -5px;
   }
+
 
   /* footer section styles */
 
   .footer-main {
     justify-content: center;
-    width: 470px;
+    width: 460px;
     height: 400px;
     background: rgba(19, 19, 24, 0.05);
     margin-top: 24px;
