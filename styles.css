@@ -181,79 +181,86 @@ nav li a {
   line-height: 26px;
 }
 
-.location-img{
+.location-img {
   width: 573px;
   height: 300px;
-  
+
 }
-.relative{
+
+.relative {
   position: relative;
 }
-  
 
-#txt-malay{
+
+#txt-malay {
   position: absolute;
   color: #FFF;
-text-align: center; 
-font-size: 28px;
-font-weight: 800;
-top: 35%;
-left: 38%;
+  text-align: center;
+  font-size: 28px;
+  font-weight: 800;
+  top: 37%;
+  left: 40%;
 
 }
-#txt-indo{
+
+#txt-indo {
   position: absolute;
   color: #FFF;
-text-align: center; 
-font-size: 28px;
-font-weight: 800;
-top: 37%;
-left: 37%;
+  text-align: center;
+  font-size: 28px;
+  font-weight: 800;
+  top: 37%;
+  left: 37%;
 }
-#txt-srilanka{
+
+#txt-srilanka {
   position: absolute;
   color: #FFF;
-text-align: center; 
-font-size: 28px;
-font-weight: 800;
-top: 40%;
-left:34%;
+  text-align: center;
+  font-size: 28px;
+  font-weight: 800;
+  top: 40%;
+  left: 34%;
 }
-#txt-america{
+
+#txt-america {
   position: absolute;
   color: #FFF;
-text-align: center; 
-font-size: 28px;
-font-weight: 800;
-top: 40%;
-left:30%; 
+  text-align: center;
+  font-size: 28px;
+  font-weight: 800;
+  top: 40%;
+  left: 30%;
 }
-#txt-Kashmir{
+
+#txt-Kashmir {
   position: absolute;
   color: #FFF;
-text-align: center; 
-font-size: 28px;
-font-weight: 800;
-top: 40%;
-left:31%; 
+  text-align: center;
+  font-size: 28px;
+  font-weight: 800;
+  top: 40%;
+  left: 31%;
 }
-#txt-bangladesh{
+
+#txt-bangladesh {
   position: absolute;
   color: #FFF;
-text-align: center; 
-font-size: 28px;
-font-weight: 800;
-top: 38%;
-left: 34%; 
+  text-align: center;
+  font-size: 28px;
+  font-weight: 800;
+  top: 38%;
+  left: 34%;
 }
-#txt-Bandarban{
+
+#txt-Bandarban {
   position: absolute;
   color: #FFF;
-text-align: center; 
-font-size: 28px;
-font-weight: 800;
-top: 38%;
-left: 39%; 
+  text-align: center;
+  font-size: 28px;
+  font-weight: 800;
+  top: 38%;
+  left: 39%;
 }
 
 
@@ -287,75 +294,82 @@ left: 39%;
   line-height: 26px;
 }
 
-.about-us-cart2{
+.about-us-cart2 {
   display: flex;
   justify-content: center;
   gap: 24px;
 }
 
-.hotel1{
+.hotel1 {
   width: 573px;
   height: 200px;
   border-radius: 16px;
   border: 1px solid rgba(251, 181, 99, 0.20);
   background: rgba(251, 181, 99, 0.05);
-  padding:34px;
+  padding: 34px;
 }
-.hotel2{
+
+.hotel2 {
   width: 573px;
   height: 200px;
   border-radius: 16px;
   border: 1px solid rgba(41, 206, 246, 0.20);
-background: rgba(41, 206, 246, 0.05);
-  padding:34px;
+  background: rgba(41, 206, 246, 0.05);
+  padding: 34px;
 }
-.hotel3{
+
+.hotel3 {
   width: 573px;
   height: 200px;
   border-radius: 16px;
   border: 1px solid rgba(233, 68, 68, 0.20);
   background: rgba(233, 68, 68, 0.05);
-  padding:34px;
+  padding: 34px;
   margin: 24px auto;
-  
+
 }
-.hotel-title{
+
+.hotel-title {
   color: #131318;
-font-size: 1.5rem;
-font-weight: 800;
+  font-size: 1.5rem;
+  font-weight: 800;
 }
-.hotel-breff{
+
+.hotel-breff {
   color: #5A5A5D;
-font-size: 1rem;
-font-weight: 400;
-line-height: 26px;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 26px;
 }
-.icon{
+
+.icon {
   width: 64px;
-height: 64px;
+  height: 64px;
 
 }
 
 
 /* Deals & Discounts section */
 
-#deal-title{
+#deal-title {
   color: #131318;
-text-align: center;
-font-size: 2.5rem;
-font-weight: 800;
-margin-top: 100px;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 800;
+  margin-top: 100px;
 
 }
-#deal-breff{
+
+#deal-breff {
   color: rgba(19, 19, 24, 0.70);
-text-align: center;
-font-size: 1rem;
-font-weight: 400;
-line-height: 26px;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 26px;
 }
+
 /* A Simple Perfect Place To Get Lost */
-.place-section{
+.place-section {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -364,30 +378,30 @@ line-height: 26px;
 
 }
 
-.place-for-tours{
+.place-for-tours {
   margin-right: 20px;
 }
 
 
-#place-title{
+#place-title {
   color: #131318;
-    font-size: 2.5rem;
-    font-weight: 800;
-  line-height: 60px; 
+  font-size: 2.5rem;
+  font-weight: 800;
+  line-height: 60px;
   width: 448px;
 }
 
-#place-breff{
+#place-breff {
   color: #5A5A5D;
-    font-size: 1rem;
-    font-weight: 400;
+  font-size: 1rem;
+  font-weight: 400;
   line-height: 26px;
   max-width: 518px;
 }
 
-#sundarban-points{
+#sundarban-points {
   color: #131318;
-   font-size: 1rem;
+  font-size: 1rem;
   font-weight: 700;
   line-height: 26px;
   max-width: 518px;
@@ -407,14 +421,15 @@ line-height: 26px;
   font-weight: 800;
 
 }
-#video{
+
+#video {
   width: 530px;
   height: 300px;
   border-radius: 16px;
 }
 
 /* Newsletter section styles */
-.newslatter-main{
+.newslatter-section {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -422,20 +437,24 @@ line-height: 26px;
   margin-top: 100px;
   position: relative;
 }
-.news{
+
+.news {
   border: 1px solid #FF5400;
   border-radius: 16px;
   width: 480px;
   height: 440px;
-  padding: 30px;
+  padding: 18px;
+  margin-bottom: 100px;
 }
-hr{
+
+hr {
   width: 393px;
   height: 1px;
   background: rgba(19, 19, 24, 0.10);
   margin: 24px 0;
 }
-input{
+
+input {
   width: 393px;
   height: 52px;
   border-radius: 8px;
@@ -443,9 +462,9 @@ input{
   background: rgba(19, 19, 24, 0.05);
   color: rgba(19, 19, 24, 0.30);
   font-size: 1rem;
-  padding: 5px;
 }
-#btn3{
+
+.btn-3 {
   width: 393px;
   height: 52px;
   border: none;
@@ -457,13 +476,86 @@ input{
   font-weight: 800;
   margin-top: 25px;
 }
-.img-3{
+
+.img-3 {
   width: 670px;
   height: 470px;
   border-radius: 16px;
 }
 
+.img-4 {
+  background-image: url(icons/Rectangle\ 14.png);
+  position: absolute;
+  right: 329px;
+  bottom: 80px;
+  width: 300px;
+  height: 100px;
+  transform: rotate(-30deg);
+  border-radius: 16px;
+  background: #FF5400;
+  padding-top: 10px;
+}
 
+.img-p {
+  color: #FFF;
+  text-align: center;
+  font-size: 1rem;
+}
+
+.img-h3 {
+  color: #FFF;
+  font-size: 1.3rem;
+  font-weight: 800;
+  text-align: center;
+}
+
+/* footer section styles */
+
+.footer-main {
+  justify-content: center;
+  align-items: center;
+  width: 1920px;
+  height: 502px;
+  background: rgba(19, 19, 24, 0.05);
+
+}
+
+.footer-items {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 110px;
+}
+
+#footer-p {
+  text-align: center;
+  max-width: 769px;
+  padding-left: 555px;
+}
+
+#social-icons {
+  display: flex;
+  gap: 15px;
+  width: 30px;
+  height: 50px;
+  margin-left: 920px;
+  padding-top: 20px;
+}
+
+#hr2 {
+  width: 900px;
+  height: 1px;
+  background: rgba(19, 19, 24, 0.10);
+  margin-left: 484px;
+
+}
+
+#year {
+  justify-content: center;
+  text-align: center;
+  max-width: 769px;
+  /* padding-left:555px ; */
+}
 
 
 
@@ -486,8 +578,9 @@ input{
   }
 
   .banner {
-    width: 500px;
-    height: 483px;
+    width: 450px;
+    height: 480px;
+    margin-left: 10px;
   }
 
   #banner-title {
@@ -512,7 +605,7 @@ input{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-left: 100px;
+    margin-left: 70px;
     width: 287px;
     padding: 16px;
     gap: 16px;
@@ -568,9 +661,10 @@ input{
   }
 
   #mount-everest-img {
-    width: 540px;
-    height: 550px;
+    width: 405px;
+    height: 350px;
     border-radius: 16px;
+    margin-left: 50px;
 
   }
 
@@ -588,132 +682,131 @@ input{
 
   }
 
-  /* Choose Your Location section styles */
+ 
 
+  /* Choose Your Location section styles */
   #location-title {
     color: #131318;
     text-align: center;
-    font-size: 1.25rem;
+    font-size: 2.5rem;
     font-weight: 800;
-
+    margin-left: 50px;
   }
 
   #location-breff {
     color: rgba(19, 19, 24, 0.70);
     text-align: center;
-    font-size: 0.875rem;
+    font-size: 1rem;
     font-weight: 400;
-    line-height: 24px;
+    line-height: 26px;
+    margin-left: 50px;
   }
-/* Choose Your Location section styles */
-#location-title {
-  color: #131318;
-  text-align: center;
-  font-size: 2.5rem;
-  font-weight: 800;
-}
 
-#location-breff {
-  color: rgba(19, 19, 24, 0.70);
-  text-align: center;
-  font-size: 1rem;
-  font-weight: 400;
-  line-height: 26px;
-}
+  .location-img {
+    width: 573px;
+    height: 300px;
 
-.location-img{
-  width: 573px;
-  height: 300px;
-  
-}
-.relative{
-  position: relative;
-}
-  
+  }
 
-#txt-malay{
-  position: absolute;
-  color: #FFF;
-text-align: center; 
-font-size: 28px;
-font-weight: 800;
-top: 35%;
-left: 38%;
+  .relative {
+    position: relative;
+    margin-left: 50px;
+  }
 
-}
-#txt-indo{
-  position: absolute;
-  color: #FFF;
-text-align: center; 
-font-size: 28px;
-font-weight: 800;
-top: 37%;
-left: 37%;
-}
-#txt-srilanka{
-  position: absolute;
-  color: #FFF;
-text-align: center; 
-font-size: 28px;
-font-weight: 800;
-top: 40%;
-left:34%;
-}
-#txt-america{
-  position: absolute;
-  color: #FFF;
-text-align: center; 
-font-size: 28px;
-font-weight: 800;
-top: 40%;
-left:30%; 
-}
-#txt-Kashmir{
-  position: absolute;
-  color: #FFF;
-text-align: center; 
-font-size: 28px;
-font-weight: 800;
-top: 40%;
-left:31%; 
-}
-#txt-bangladesh{
-  position: absolute;
-  color: #FFF;
-text-align: center; 
-font-size: 28px;
-font-weight: 800;
-top: 38%;
-left: 34%; 
-}
-#txt-Bandarban{
-  position: absolute;
-  color: #FFF;
-text-align: center; 
-font-size: 28px;
-font-weight: 800;
-top: 38%;
-left: 39%; 
-}
-.row {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  margin-top: 40px;
-  gap: 25px;
-}
-.relative{
-  flex-direction: column;
-}
-.row .i-1{
-  width: 335px;
-  height: 176px;
-}
-.main-cart{
-  width: 80%;
-  margin: 0 auto;
-}
+
+  #txt-malay {
+    position: absolute;
+    color: #FFF;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    top: 27%;
+    left: 30%;
+
+  }
+
+  #txt-indo {
+    position: absolute;
+    color: #FFF;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    top: 27%;
+    left: 30%;
+  }
+
+  #txt-srilanka {
+    position: absolute;
+    color: #FFF;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    top: 27%;
+    left: 30%;
+  }
+
+  #txt-america {
+    position: absolute;
+    color: #FFF;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    top: 27%;
+    left: 30%;
+  }
+
+  #txt-Kashmir {
+    position: absolute;
+    color: #FFF;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    top: 27%;
+    left: 30%;
+  }
+
+  #txt-bangladesh {
+    position: absolute;
+    color: #FFF;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    top: 27%;
+    left: 27%;
+  }
+
+  #txt-Bandarban {
+    position: absolute;
+    color: #FFF;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 800;
+    top: 27%;
+    left: 27%;
+  }
+
+  .row {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    gap: 25px;
+  }
+
+  .relative {
+    flex-direction: column;
+  }
+
+  .row .i-1 {
+    width: 335px;
+    height: 176px;
+  }
+
+  .main-cart {
+    width: 90%;
+    margin: 0 auto;
+  }
 
 
   /* Why chose us section */
@@ -722,131 +815,275 @@ left: 39%;
     text-align: center;
     font-size: 1.25rem;
     font-weight: 800;
-  
+    margin-left: 50px;
+
   }
-  
+
   #about-us-breff {
     color: rgba(19, 19, 24, 0.70);
     text-align: center;
     font-size: 0.875rem;
     font-weight: 400;
     line-height: 26px;
+    margin-left: 50px;
   }
-  .about-us-cart{
+
+  .about-us-cart {
     justify-content: center;
     align-items: center;
   }
-  
-  .about-us-cart2{
+
+  .about-us-cart2 {
     display: block;
     justify-content: center;
-    
+
     gap: 24px;
   }
-  
-  .hotel1{
+
+  .hotel1 {
     width: 335px;
     height: 289px;
     border-radius: 16px;
     border: 1px solid rgba(251, 181, 99, 0.20);
     background: rgba(251, 181, 99, 0.05);
-    padding:34px;
-    margin-bottom:16px ;
-    margin: 16px 89.5px 16px 89.5px;
+    padding: 34px;
+    margin-bottom: 16px;
+    margin: 16px 25px 16px ;
   }
-  .hotel2{
+
+  .hotel2 {
     width: 335px;
     height: 289px;
     border-radius: 16px;
     border: 1px solid rgba(41, 206, 246, 0.20);
-  background: rgba(41, 206, 246, 0.05);
-    padding:34px;
-    margin-bottom:16px ;
-    margin: 16px 89.5px 16px 89.5px;
+    background: rgba(41, 206, 246, 0.05);
+    padding: 34px;
+    margin-bottom: 16px;
+    margin: 16px 25px 16px ;
   }
-  .hotel3{
+
+  .hotel3 {
     width: 335px;
     height: 289px;
     border-radius: 16px;
     border: 1px solid rgba(233, 68, 68, 0.20);
     background: rgba(233, 68, 68, 0.05);
-    padding:34px;
-        
-}
-  .hotel-title{
+    padding: 34px;
+    margin-left: 25px;
+
+  }
+
+  .hotel-title {
     color: #131318;
-  font-size: 1.5rem;
-  font-weight: 800;
+    font-size: 1.5rem;
+    font-weight: 800;
   }
-  .hotel-breff{
+
+  .hotel-breff {
     color: #5A5A5D;
-  font-size: 1rem;
-  font-weight: 400;
-  line-height: 26px;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 26px;
   }
-  .icon{
-  width: 64px;
-  height: 64px;
-  
+
+  .icon {
+    width: 64px;
+    height: 64px;
+
   }
-/* A Simple Perfect Place To Get Lost */
-.place-section {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  margin: 100px auto;
-  
+
+  /* A Simple Perfect Place To Get Lost */
+  .place-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    margin-left: 80px;
 
 
-}
 
-.place-for-tours {
-  margin-left: 20px;
-}
+  }
+
+  .place-for-tours {
+    margin-left: 20px;
+  }
 
 
-#place-title {
-  color: #131318;
+  #place-title {
+    color: #131318;
     font-size: 1.25rem;
-  font-weight: 800;
+    font-weight: 800;
 
-}
+  }
 
-#place-breff {
-  color: rgba(19, 19, 24, 0.70);
-  font-size: 0.875rem;
-  font-weight: 400;
-  line-height: 24px;
-  
-}
+  #place-breff {
+    color: rgba(19, 19, 24, 0.70);
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 24px;
 
-#sundarban-points {
-  color: #131318;
+  }
+
+  #sundarban-points {
+    color: #131318;
     font-size: 0.875rem;
     font-weight: 700;
-  line-height: 24px;
-}
+    line-height: 24px;
+  }
 
 
-#btn3 {
-  background: #FF5400;
-  width: 174px;
-  height: 52px;
-  border-radius: 8px;
-  border: none;
-  color: #FFF;
-  text-align: center;
-  font-size: 1.25rem;
-  font-weight: 800;
-  margin-bottom: 24px;
+  #btn3 {
+    background: #FF5400;
+    width: 174px;
+    height: 52px;
+    border-radius: 8px;
+    border: none;
+    color: #FFF;
+    text-align: center;
+    font-size: 1.25rem;
+    font-weight: 800;
+    margin-bottom: 24px;
 
-}
-#video{
-  width: 473px;
-  height: 290px;
-  /* border-radius: 16px; */
-}
-/* Newsletter section styles */
+  }
+
+  #video {
+    width: 400px;
+    height: 290px;
+    margin-left: -20px;
+    /* border-radius: 16px; */
+  }
+
+  /* Newsletter section styles */
+  .newslatter-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin-top: 100px;
+    position: relative;
+    margin-left: 50px;
+  }
+
+  .news {
+    border: 1px solid #FF5400;
+    border-radius: 16px;
+    width: 335px;
+    height: 420px;
+    padding: 18px;
+  }
+
+  hr {
+    width: 288px;
+    height: 1px;
+    background: rgba(19, 19, 24, 0.10);
+    margin: 24px 0;
+  }
+
+  input {
+    width: 288px;
+    height: 52px;
+    border-radius: 8px;
+    border: none;
+    background: rgba(19, 19, 24, 0.05);
+    color: rgba(19, 19, 24, 0.30);
+    font-size: 1rem;
+  }
+
+  .btn-3 {
+    width: 288px;
+    height: 52px;
+    border: none;
+    border-radius: 8px;
+    background: #FF5400;
+    color: #FFF;
+    text-align: center;
+    font-size: 1.25rem;
+    font-weight: 800;
+    margin-top: 25px;
+  }
+
+  .img-3 {
+    width: 335px;
+    height: 300px;
+    border-radius: 16px;
+  }
+
+  .img-4 {
+    background-image: url(icons/Rectangle\ 14.png);
+    position: absolute;
+    right: 329px;
+    bottom: 80px;
+    width: 214.023px;
+    height: 79.268px;
+    transform: rotate(-35deg);
+    border-radius: 16px;
+    background: #FF5400;
+    padding-top: 5px;
+  }
+
+  .img-p {
+    color: #FFF;
+    text-align: center;
+    font-size: 1rem;
+  }
+
+  .img-h3 {
+    color: #FFF;
+    font-size: 1.3rem;
+    font-weight: 800;
+    text-align: center;
+  }
+
+  /* footer section styles */
+
+  .footer-main {
+    justify-content: center;
+    width: 470px;
+    height: 400px;
+    background: rgba(19, 19, 24, 0.05);
+    margin-top: 24px;
+
+  }
+
+  .footer-items {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 21.543px;
+    padding-top: 33px;
+  }
+
+  #footer-p {
+
+    text-align: center;
+    max-width: none;
+    padding-left: 0;
+
+  }
+
+  #social-icons {
+    display: flex;
+    gap: 15px;
+    width: 30px;
+    height: 50px;
+    margin-left: 190px;
+    padding-top: 20px;
+  }
+
+  #hr2 {
+    width: 320px;
+    height: 1px;
+    background: rgba(19, 19, 24, 0.10);
+    margin-left: 75px;
+
+  }
+
+  #year {
+    text-align: center;
+    max-width: 769px;
+    padding-left: none;
+  }
 
 }
