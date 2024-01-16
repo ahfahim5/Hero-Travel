@@ -1,0 +1,81 @@
+.location-img{
+    width: 573px;
+    height: 300px;
+    position: relative;
+    
+}
+#txt-malay{
+    position: absolute;
+    color: #FFF;
+text-align: center; 
+font-size: 28px;
+font-weight: 800;
+top: 18%;
+left: 30%;
+
+}
+#txt-indo{
+    position: absolute;
+    color: #FFF;
+text-align: center; 
+font-size: 28px;
+font-weight: 800;
+top: 18%;
+left: 62.5%;
+}
+#txt-srilanka{
+    position: absolute;
+    color: #FFF;
+text-align: center; 
+font-size: 28px;
+font-weight: 800;
+top: 55%;
+left:26%;
+}
+#txt-america{
+    position: absolute;
+    color: #FFF;
+text-align: center; 
+font-size: 28px;
+font-weight: 800;
+top: 55%;
+left:48%; 
+}
+#txt-Kashmir{
+    position: absolute;
+    color: #FFF;
+text-align: center; 
+font-size: 28px;
+font-weight: 800;
+top: 55%;
+left:71%; 
+}
+#txt-bangladesh{
+    position: absolute;
+    color: #FFF;
+text-align: center; 
+font-size: 28px;
+font-weight: 800;
+top: 91%;
+left: 28%; 
+}
+#txt-Bandarban{
+    position: absolute;
+    color: #FFF;
+text-align: center; 
+font-size: 28px;
+font-weight: 800;
+top: 91%;
+left: 59%; 
+}
+
+
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    gap: 25px;
+  }
+
+  
